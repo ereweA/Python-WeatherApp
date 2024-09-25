@@ -1,5 +1,3 @@
-WEATHER_API_KEY.env
-.env
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
